@@ -1,0 +1,74 @@
+{
+  "amoxicillin": {
+    "dose_per_kg": 25,
+    "max_daily_mg": 1500,
+    "unit": "mg",
+    "category": "antibiotic"
+  },
+  "paracetamol": {
+    "dose_per_kg": 15,
+    "max_daily_mg": 1000,
+    "unit": "mg",
+    "category": "analgesic"
+  },
+  "ibuprofen": {
+    "dose_per_kg": 10,
+    "max_daily_mg": 800,
+    "unit": "mg",
+    "category": "anti-inflammatory"
+  },
+  "azithromycin": {
+    "dose_per_kg": 10,
+    "max_daily_mg": 500,
+    "unit": "mg",
+    "category": "antibiotic"
+  },
+  "metronidazole": {
+    "dose_per_kg": 7.5,
+    "max_daily_mg": 750,
+    "unit": "mg",
+    "category": "antibiotic"
+  },
+  "cephalexin": {
+    "dose_per_kg": 25,
+    "max_daily_mg": 1000,
+    "unit": "mg",
+    "category": "antibiotic"
+  },
+  "diphenhydramine": {
+    "dose_per_kg": 1,
+    "max_daily_mg": 50,
+    "unit": "mg",
+    "category": "antihistamine"
+  },
+  "prednisolone": {
+    "dose_per_kg": 1,
+    "max_daily_mg": 40,
+    "unit": "mg",
+    "category": "corticosteroid"
+  },
+  "omeprazole": {
+    "dose_per_kg": 1,
+    "max_daily_mg": 20,
+    "unit": "mg",
+    "category": "antacid"
+  },
+  "ondansetron": {
+    "dose_per_kg": 0.15,
+    "max_daily_mg": 8,
+    "unit": "mg",
+    "category": "antiemetic"
+  },
+  "furosemide": {
+    "dose_per_kg": 1,
+    "max_daily_mg": 40,
+    "unit": "mg",
+    "category": "diuretic"
+  },
+  "salbutamol": {
+    "dose_per_kg": 0.15,
+    "max_daily_mg": 4,
+    "unit": "mg",
+    "category": "bronchodilator"
+  }
+}
