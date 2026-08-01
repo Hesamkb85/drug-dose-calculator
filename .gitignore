@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+patients.csv
+dose_report.csv
